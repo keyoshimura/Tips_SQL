@@ -19,6 +19,8 @@ EXSITS句を使ったものは、基本的にINNERJOINで置き換え可能な�
 
 ●INTERSECT、EXCEPT句
 UNIONのちょっと応用版くらいのもの。
+下記のサイトを参考にして。
+http://d.hatena.ne.jp/noire722/20100610/1276157320
 
 INTERSECT：	二つのテーブルに共通する部分のみを縦結合
 EXCEPT：		(先に指定したテーブル)　- (後に指定したテーブル)
